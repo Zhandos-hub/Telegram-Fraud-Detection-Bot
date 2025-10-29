@@ -3,7 +3,7 @@
 This is a small side project that listens to voice messages on Telegram and tries to guess if the person is trying to scam you.
 Nothing fancy, just some Python, speech recognition, and a bit of AI magic glued together.
 
-Now it works for russian language (to add bit of uniqness) but can be easily changed by modifing FRAUD_KEYPHRASES list
+UPD Now it works both for russian and english
 
 ---
 
